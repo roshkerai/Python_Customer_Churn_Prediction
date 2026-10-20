@@ -2,7 +2,7 @@
 
 A machine learning project that predicts whether a telecom customer is likely to churn (leave the service), built in Python using Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roshkerai/Python_Customer_Churn_Prediction/blob/main/Copy_of_Customer_Churn_Prediction_using_ML_for_GitHub.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roshkerai/Python_Customer_Churn_Prediction/blob/main/Customer_Churn_Prediction_using_Machine_Learning.ipynb)
 
 ## Project Overview
 
@@ -61,7 +61,7 @@ The model is good at identifying customers who stay (precision and recall of 0.8
 ```
 ├── data/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-├── Copy_of_Customer_Churn_Prediction_using_ML_for_GitHub.ipynb
+├── Customer_Churn_Prediction_using_Machine_Learning.ipynb
 └── README.md
 ```
 
